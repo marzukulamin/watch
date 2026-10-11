@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-09T15:09:48.762Z",
+  "project": "jerserio-project",
+  "model": "publishers/google/models/gemini-omni-1.1-flash-preview",
+  "location": "global",
+  "authentication": "existing gcloud OAuth; token held in memory only",
+  "generation_requested": true,
+  "video_output_estimate_usd": 1.21632,
+  "credit_balance_verified": false,
+  "version": "outlet-v2",
+  "launch_stage": "PUBLIC_PREVIEW",
+  "authentication_verified": true,
+  "count_tokens": 2,
+  "interaction_id": "wAPJarjiC4-o7PkPxqLTqAQ",
+  "status": "completed",
+  "usage": {
+    "total_tokens": 71493,
+    "total_input_tokens": 1562,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1100
+      },
+      {
+        "modality": "text",
+        "tokens": 462
+      }
+    ],
+    "total_output_tokens": 69504,
+    "output_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 69504
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 427
+  },
+  "local_asset": "docs/reference/verse-assembly-omni.outlet-v2.mp4",
+  "visually_inspected": true,
+  "inspection_result": "approved",
+  "inspected_at": "2026-10-09T15:13:19.666Z",
+  "review": "Inspected 16-frame contact sheet, full-resolution opening and end frames: starting frame matches previous dial zoom, portal forms, dark/champagne boutique facade and watch windows construct, glass doors swing open and camera advances toward clean central black wall. No baked lettering observed.",
+  "estimated_usage_cost_usd": 1.222506,
+  "credit_coverage_verified": false
+}

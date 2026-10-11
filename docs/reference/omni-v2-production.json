@@ -1,0 +1,31 @@
+{
+  "prepared_at": "2026-10-09T15:30:28.197Z",
+  "source_model": "gemini-omni-1.1-flash-preview",
+  "story_seconds": 18,
+  "full_intro_seconds": 19.5,
+  "generated_content": "Original watch and architectural concept",
+  "branding": "Official source symbol and exact locally rendered Manrope wordmark",
+  "audio": false,
+  "assets": [
+    {
+      "path": "/media/intro/verse-watch-outlet-desktop.v2.mp4",
+      "bytes": 6002183
+    },
+    {
+      "path": "/media/intro/verse-watch-outlet-mobile.v2.mp4",
+      "bytes": 2416650
+    },
+    {
+      "path": "/media/intro/verse-full-intro.v2.mp4",
+      "bytes": 6784110
+    },
+    {
+      "path": "/media/intro/verse-outlet-poster.v2.webp",
+      "bytes": 27206
+    }
+  ],
+  "activated": true,
+  "visually_inspected": true,
+  "activated_at": "2026-10-09T15:30:55.384Z",
+  "review": "Inspected full master/contact sheet, portrait crop, full-resolution branding reveal and original shot continuity. Website uses local silent story footage with exact HTML source logo/wordmark. Full export includes exact composited opening/finale branding."
+}

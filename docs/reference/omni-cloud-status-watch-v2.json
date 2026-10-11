@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-10-09T15:06:03.275Z",
+  "project": "jerserio-project",
+  "model": "publishers/google/models/gemini-omni-1.1-flash-preview",
+  "location": "global",
+  "authentication": "existing gcloud OAuth; token held in memory only",
+  "generation_requested": true,
+  "video_output_estimate_usd": 1.21632,
+  "credit_balance_verified": false,
+  "version": "watch-v2",
+  "launch_stage": "PUBLIC_PREVIEW",
+  "authentication_verified": true,
+  "count_tokens": 2,
+  "interaction_id": "3QLJapzSHL22i9sP3ZXaiAE",
+  "status": "completed",
+  "usage": {
+    "total_tokens": 70205,
+    "total_input_tokens": 445,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 445
+      }
+    ],
+    "total_output_tokens": 69504,
+    "output_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 69504
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 256
+  },
+  "local_asset": "docs/reference/verse-assembly-omni.watch-v2.mp4",
+  "visually_inspected": true,
+  "inspection_result": "superseded",
+  "inspected_at": "2026-10-09T15:13:19.657Z",
+  "review": "Full-resolution inspection found tiny invented dial glyphs; superseded by cleaned watch-v3.",
+  "estimated_usage_cost_usd": 1.2192915,
+  "credit_coverage_verified": false
+}

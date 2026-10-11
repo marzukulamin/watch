@@ -1,0 +1,2197 @@
+{
+  "fetched_at": "2026-10-09T12:39:38.564Z",
+  "source_url": "https://versebd.com/products.json?limit=250",
+  "products": [
+    {
+      "id": 10334485676118,
+      "title": "Timex Marlin Moon Phase Multifunction 40mm Navy Blue Dial Black Leather Men's Watch | Timex TWEG26803",
+      "handle": "timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803",
+      "body_html": "<p>The Timex Marlin TWEG26803 brings the classic Marlin design into a deep navy blue finish, featuring a metallic sunray dial with silver-tone baton indices and a detailed moon phase display. Its multifunction layout adds dedicated day, date, and month sub-dials, complemented by a polished stainless steel case and textured black crocodile-pattern leather strap. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand: Timex</strong></p>\n<p><strong>Model: TWEG26803</strong></p>\n<p><strong>Collection: Marlin</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Quartz Analog Multifunction</strong></p>\n<p><strong>Movement Caliber: Miyota 6P00 / M247</strong></p>\n<p><strong>Movement Origin: Japan</strong></p>\n<p><strong>Battery: SR621SW</strong></p>\n<p><strong>Battery Life: Approx. 3 years</strong></p>\n<p><strong>Accuracy: ±20 seconds/month</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Diameter: 40mm</strong></p>\n<p><strong>Case Thickness: 13mm</strong></p>\n<p><strong>Case Material: Polished Stainless Steel</strong></p>\n<p><strong>Case Color: Silver-Tone</strong></p>\n<p><strong>Strap Material: Genuine Leather</strong></p>\n<p><strong>Strap Color: Black</strong></p>\n<p><strong>Strap Width: 20mm</strong></p>\n<p><strong>Strap Pattern: Crocodile-Textured</strong></p>\n<p><strong>Clasp: Tang Buckle</strong></p>\n<p><strong>Weight: Approx. 52g</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Navy Blue</strong></p>\n<p><strong>Finish: Metallic Sunray</strong></p>\n<p><strong>Indices: Hand-Applied Silver-Tone Batons</strong></p>\n<p><strong>Moon Phase Indicator</strong></p>\n<p><strong>Day Display</strong></p>\n<p><strong>Date Display</strong></p>\n<p><strong>Month Display</strong></p>\n<p><strong>Crystal: Domed Acrylic</strong></p>\n<p><strong>Water Resistance: 50m / 5 ATM</strong></p>",
+      "published_at": "2026-10-09T02:47:04+06:00",
+      "created_at": "2026-10-09T02:38:49+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50600455864406,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "18500.00",
+          "grams": 0,
+          "compare_at_price": "21900.00",
+          "position": 1,
+          "product_id": 10334485676118,
+          "created_at": "2026-10-09T02:38:53+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 40683179671638,
+          "created_at": "2026-10-09T02:40:51+06:00",
+          "position": 1,
+          "updated_at": "2026-10-09T15:34:12+06:00",
+          "product_id": 10334485676118,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-8570603.jpg?v=1791538452",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 40683179638870,
+          "created_at": "2026-10-09T02:40:51+06:00",
+          "position": 2,
+          "updated_at": "2026-10-09T15:34:12+06:00",
+          "product_id": 10334485676118,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-4258781.jpg?v=1791538452",
+          "width": 923,
+          "height": 923
+        },
+        {
+          "id": 40683179606102,
+          "created_at": "2026-10-09T02:40:51+06:00",
+          "position": 3,
+          "updated_at": "2026-10-09T15:34:13+06:00",
+          "product_id": 10334485676118,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-8405993.jpg?v=1791538453",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 40683179573334,
+          "created_at": "2026-10-09T02:40:51+06:00",
+          "position": 4,
+          "updated_at": "2026-10-09T15:34:13+06:00",
+          "product_id": 10334485676118,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-5994026.jpg?v=1791538453",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 40683179540566,
+          "created_at": "2026-10-09T02:40:51+06:00",
+          "position": 5,
+          "updated_at": "2026-10-09T15:34:13+06:00",
+          "product_id": 10334485676118,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-2162550.jpg?v=1791538453",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 40683179507798,
+          "created_at": "2026-10-09T02:40:51+06:00",
+          "position": 6,
+          "updated_at": "2026-10-09T15:34:13+06:00",
+          "product_id": 10334485676118,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-6844520.jpg?v=1791538453",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/10334485676118-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-8570603.jpg?v=1791538452"
+        },
+        {
+          "path": "/media/products/10334485676118-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-4258781.jpg?v=1791538452"
+        },
+        {
+          "path": "/media/products/10334485676118-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-navy-blue-dial-black-leather-mens-watch-timex-tweg26803-8405993.jpg?v=1791538453"
+        }
+      ]
+    },
+    {
+      "id": 10334483185750,
+      "title": "Timex Marlin Chronograph Tachymeter 40mm Ice Blue Dial Brown Leather Men's Watch | Timex TW2Y66600UJ",
+      "handle": "timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj",
+      "body_html": "<p>The Timex Marlin Chronograph TW2Y66600UJ blends a mid-century automotive-inspired design with an ice-blue sunray dial, contrasting dark sub-dials, tachymeter scale, and date display. It pairs a polished 316L stainless steel case with a brown natural leather strap and a functional Meca-Quartz chronograph. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand: Timex</strong></p>\n<p><strong>Model: TW2Y66600UJ</strong></p>\n<p><strong>Collection: Marlin</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Japanese Meca-Quartz Chronograph</strong></p>\n<p><strong>Caliber: Miyota M10H</strong></p>\n<p><strong>Power: Battery Powered</strong></p>\n<p><strong>Battery: SR936SW</strong></p>\n<p><strong>Frequency: 32,768 Hz</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Diameter: 40mm</strong></p>\n<p><strong>Case Thickness: 13.5mm</strong></p>\n<p><strong>Lug-to-Lug: 48mm</strong></p>\n<p><strong>Case Material: 316L Polished Stainless Steel</strong></p>\n<p><strong>Strap: Brown Natural Leather</strong></p>\n<p><strong>Strap Width: 20mm</strong></p>\n<p><strong>Strap Features: LWG Certified Leather, Quick-Release Spring Bars</strong></p>\n<p><strong>Clasp: Tang Buckle</strong></p>\n<p><strong>Weight: Approx. 54.49g</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Ice Blue Sunray</strong></p>\n<p><strong>Sub-Dials: 60-minute chronograph, 24-hour, Running Seconds</strong></p>\n<p><strong>Date Display: At 4:30</strong></p>\n<p><strong>Tachymeter Scale</strong></p>\n<p><strong>Chronograph Function</strong></p>\n<p><strong>Crystal: Domed Acrylic / Hesalite</strong></p>\n<p><strong>Water Resistance: 50m / 5 ATM</strong></p>",
+      "published_at": "2026-10-09T02:32:26+06:00",
+      "created_at": "2026-10-09T02:28:28+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50600443412566,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19500.00",
+          "grams": 0,
+          "compare_at_price": "23500.00",
+          "position": 1,
+          "product_id": 10334483185750,
+          "created_at": "2026-10-09T02:28:31+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 40683141136470,
+          "created_at": "2026-10-09T02:28:44+06:00",
+          "position": 1,
+          "updated_at": "2026-10-09T15:34:12+06:00",
+          "product_id": 10334483185750,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-5422468.jpg?v=1791538452",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 40683141103702,
+          "created_at": "2026-10-09T02:28:44+06:00",
+          "position": 2,
+          "updated_at": "2026-10-09T15:34:14+06:00",
+          "product_id": 10334483185750,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-1749721.jpg?v=1791538454",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 40683141070934,
+          "created_at": "2026-10-09T02:28:44+06:00",
+          "position": 3,
+          "updated_at": "2026-10-09T15:34:13+06:00",
+          "product_id": 10334483185750,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-4629884.jpg?v=1791538453",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 40683141038166,
+          "created_at": "2026-10-09T02:28:44+06:00",
+          "position": 4,
+          "updated_at": "2026-10-09T15:34:13+06:00",
+          "product_id": 10334483185750,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-8635638.jpg?v=1791538453",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 40683141005398,
+          "created_at": "2026-10-09T02:28:44+06:00",
+          "position": 5,
+          "updated_at": "2026-10-09T15:34:13+06:00",
+          "product_id": 10334483185750,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-2861671.jpg?v=1791538453",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 40683140972630,
+          "created_at": "2026-10-09T02:28:44+06:00",
+          "position": 6,
+          "updated_at": "2026-10-09T15:34:13+06:00",
+          "product_id": 10334483185750,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-4332235.jpg?v=1791538453",
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/10334483185750-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-5422468.jpg?v=1791538452"
+        },
+        {
+          "path": "/media/products/10334483185750-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-1749721.jpg?v=1791538454"
+        },
+        {
+          "path": "/media/products/10334483185750-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-brown-leather-mens-watch-timex-tw2y66600uj-4629884.jpg?v=1791538453"
+        }
+      ]
+    },
+    {
+      "id": 10334476271702,
+      "title": "Timex Marlin Moon Phase Multifunction 40mm Forest Green Dial Brown Leather Men's Watch | Timex TWEG26800",
+      "handle": "timex-marlin-moon-phase-multifunction-40mm-forest-green-dial-brown-leather-mens-watch-timex-tweg26800",
+      "body_html": "<p>The Timex Marlin Moon Phase Multifunction TWEG26800 combines a classic mid-century-inspired design with a deep forest green sunray dial and functional moon phase display. Its polished 40mm stainless steel case is paired with a dark brown crocodile-textured leather strap, while the multifunction layout displays the day, date, month, and lunar cycle. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand: Timex</strong></p>\n<p><strong>Collection: Marlin</strong></p>\n<p><strong>Model: TWEG26800</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Quartz Analog — Miyota Cal. 6P00 / M247</strong></p>\n<p><strong>Functions: Moon Phase, Day, Date &amp; Month</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Material: Polished Stainless Steel</strong></p>\n<p><strong>Case Diameter: 40 mm</strong></p>\n<p><strong>Case Thickness: 12 mm</strong></p>\n<p><strong>Weight: 52.25 g</strong></p>\n<p><strong>Band Material: Leather</strong></p>\n<p><strong>Band Color: Dark Brown</strong></p>\n<p><strong>Band Width: 20 mm</strong></p>\n<p><strong>Band Finish: Crocodile-Textured</strong></p>\n<p><strong>Strap: Quick-Release</strong></p>\n<p><strong>Clasp: Pin Buckle</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Deep Forest Green</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Hour Markers: Hand-Applied Baton Indices</strong></p>\n<p><strong>Moon Phase: 28-Day True Moon Phase Indicator</strong></p>\n<p><strong>Sub-Dials: Day, Date &amp; Month</strong></p>\n<p><strong>Crystal: Domed Acrylic</strong></p>\n<p><strong>Water Resistance: 50 meters / 5 ATM</strong></p>",
+      "published_at": "2026-10-09T02:21:34+06:00",
+      "created_at": "2026-10-09T02:15:51+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50600429355094,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17500.00",
+          "grams": 0,
+          "compare_at_price": "21900.00",
+          "position": 1,
+          "product_id": 10334476271702,
+          "created_at": "2026-10-09T02:16:02+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 40683102961750,
+          "created_at": "2026-10-09T02:16:17+06:00",
+          "position": 1,
+          "updated_at": "2026-10-09T15:34:11+06:00",
+          "product_id": 10334476271702,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-forest-green-dial-brown-leather-mens-watch-timex-tweg26800-6484229.jpg?v=1791538451",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 40683113840726,
+          "created_at": "2026-10-09T02:20:05+06:00",
+          "position": 2,
+          "updated_at": "2026-10-09T15:34:11+06:00",
+          "product_id": 10334476271702,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-forest-green-dial-brown-leather-mens-watch-timex-tweg26800-8814885.jpg?v=1791538451",
+          "width": 923,
+          "height": 923
+        },
+        {
+          "id": 40683102863446,
+          "created_at": "2026-10-09T02:16:17+06:00",
+          "position": 3,
+          "updated_at": "2026-10-09T15:34:11+06:00",
+          "product_id": 10334476271702,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-forest-green-dial-brown-leather-mens-watch-timex-tweg26800-9112983.jpg?v=1791538451",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 40683102830678,
+          "created_at": "2026-10-09T02:16:17+06:00",
+          "position": 4,
+          "updated_at": "2026-10-09T15:34:11+06:00",
+          "product_id": 10334476271702,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-forest-green-dial-brown-leather-mens-watch-timex-tweg26800-4910800.jpg?v=1791538451",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/10334476271702-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-forest-green-dial-brown-leather-mens-watch-timex-tweg26800-6484229.jpg?v=1791538451"
+        },
+        {
+          "path": "/media/products/10334476271702-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-forest-green-dial-brown-leather-mens-watch-timex-tweg26800-8814885.jpg?v=1791538451"
+        },
+        {
+          "path": "/media/products/10334476271702-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-moon-phase-multifunction-40mm-forest-green-dial-brown-leather-mens-watch-timex-tweg26800-9112983.jpg?v=1791538451"
+        }
+      ]
+    },
+    {
+      "id": 9041679188054,
+      "title": "Casio Vintage AQ-230EGL-9ADF Champagne Gold Dial Brown Leather Gold Tone Analog-Digital Unisex Watch | Casio AQ-230EGL-9ADF",
+      "handle": "casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf",
+      "body_html": "<p>The Casio Vintage AQ-230EGL-9ADF combines a light gold metallic champagne-tone dial with a distinctive gold-tone geometric case and a tan-brown genuine leather strap featuring an embossed crocodile texture. Its analog-digital display offers practical functions including dual time, a 1/100-second stopwatch, daily alarm, hourly signal, and auto-calendar. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand: Casio</strong></p>\n<p><strong>Collection: Vintage Edgy</strong></p>\n<p><strong>Model: AQ-230EGL-9ADF</strong></p>\n<p><strong>Gender: Unisex</strong></p>\n<p><strong>Movement: Analog-Digital Quartz</strong></p>\n<p><strong>Battery: SR920W</strong></p>\n<p><strong>Battery Life: Approximately 3 years</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Material: Resin</strong></p>\n<p><strong>Bezel Material: Gold-tone</strong></p>\n<p><strong>Case Dimensions: 38.8 × 29.8 × 8.1 mm</strong></p>\n<p><strong>Weight: 20 g</strong></p>\n<p><strong>Band Material: Genuine Leather</strong></p>\n<p><strong>Band Color: Tan Brown</strong></p>\n<p><strong>Band Finish: Croco / Alligator-Embossed Texture</strong></p>\n<p><strong>Buckle: Gold-tone</strong></p>\n<p><strong>Compatible Band Size: 160–200 mm</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Light Gold / Metallic Champagne</strong></p>\n<p><strong>Display: Analog 2-Hand + Digital Display</strong></p>\n<p><strong>World Time: Yes</strong></p>\n<p><strong>Dual Time: Yes</strong></p>\n<p><strong>Stopwatch: 1/100-second, up to 59'59.99\"</strong></p>\n<p><strong>Alarm: Daily Alarm &amp; Hourly Time Signal</strong></p>\n<p><strong>Calendar: Auto-Calendar</strong></p>\n<p><strong>Time Format: 12/24-Hour</strong></p>\n<p><strong>Accuracy: ±30 seconds per month</strong></p>\n<p><strong>Glass: Resin Glass</strong></p>\n<p><strong>Water Resistance: Water Resistant</strong></p>",
+      "published_at": "2026-09-20T13:38:13+06:00",
+      "created_at": "2026-09-20T03:53:31+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 48888816795734,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "7450.00",
+          "grams": 0,
+          "compare_at_price": "8200.00",
+          "position": 1,
+          "product_id": 9041679188054,
+          "created_at": "2026-09-20T03:57:50+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38281715843158,
+          "created_at": "2026-09-20T03:58:16+06:00",
+          "position": 1,
+          "updated_at": "2026-09-20T16:34:09+06:00",
+          "product_id": 9041679188054,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-7263488.webp?v=1789900449",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38281715744854,
+          "created_at": "2026-09-20T03:58:16+06:00",
+          "position": 2,
+          "updated_at": "2026-09-20T16:34:09+06:00",
+          "product_id": 9041679188054,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-5495930.jpg?v=1789900449",
+          "width": 1588,
+          "height": 1588
+        },
+        {
+          "id": 38281715777622,
+          "created_at": "2026-09-20T03:58:16+06:00",
+          "position": 3,
+          "updated_at": "2026-09-20T16:34:09+06:00",
+          "product_id": 9041679188054,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-3344190.jpg?v=1789900449",
+          "width": 962,
+          "height": 962
+        },
+        {
+          "id": 38281715810390,
+          "created_at": "2026-09-20T03:58:16+06:00",
+          "position": 4,
+          "updated_at": "2026-09-20T16:34:08+06:00",
+          "product_id": 9041679188054,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-2776077.webp?v=1789900448",
+          "width": 605,
+          "height": 605
+        },
+        {
+          "id": 38281715712086,
+          "created_at": "2026-09-20T03:58:16+06:00",
+          "position": 5,
+          "updated_at": "2026-09-20T16:34:09+06:00",
+          "product_id": 9041679188054,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-2715627.webp?v=1789900449",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38281718759510,
+          "created_at": "2026-09-20T03:59:32+06:00",
+          "position": 6,
+          "updated_at": "2026-09-20T16:34:09+06:00",
+          "product_id": 9041679188054,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-4412853.png?v=1789900449",
+          "width": 932,
+          "height": 932
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/9041679188054-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-7263488.webp?v=1789900449"
+        },
+        {
+          "path": "/media/products/9041679188054-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-5495930.jpg?v=1789900449"
+        },
+        {
+          "path": "/media/products/9041679188054-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egl-9adf-champagne-gold-dial-brown-leather-gold-tone-analog-digital-unisex-watch-casio-aq-230egl-9adf-3344190.jpg?v=1789900449"
+        }
+      ]
+    },
+    {
+      "id": 8732880863318,
+      "title": "Casio Vintage AQ-230EGG-3ADF Analog-Digital Dark Green Dial Gunmetal Stainless Steel Unisex Watch | Casio AQ-230EGG-3ADF",
+      "handle": "casio-vintage-aq-230egg-3adf-analog-digital-dark-green-dial-gunmetal-stainless-steel-unisex-watch-casio-aq-230egg-3adf",
+      "body_html": "<p>The Casio Vintage AQ-230EGG-3ADF pairs a deep forest green sunray dial with a dark gunmetal grey ion-plated stainless steel bracelet and black chrome-plated case. Its retro analog-digital design includes dual time, a 1/100-second stopwatch, daily alarm, hourly signal, and auto-calendar. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand: Casio</strong></p>\n<p><strong>Collection: Vintage</strong></p>\n<p><strong>Model: AQ-230EGG-3ADF</strong></p>\n<p><strong>Gender: Unisex</strong></p>\n<p><strong>Movement: Analog-Digital Quartz</strong></p>\n<p><strong>Battery: SR920W</strong></p>\n<p><strong>Battery Life: Approximately 3 years</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Material: Resin</strong></p>\n<p><strong>Bezel Material: Black Chrome-Plated</strong></p>\n<p><strong>Case Dimensions: 38.8 × 29.8 × 8.1 mm</strong></p>\n<p><strong>Weight: 47 g</strong></p>\n<p><strong>Band Material: Stainless Steel</strong></p>\n<p><strong>Band Color: Dark Grey / Gunmetal Grey</strong></p>\n<p><strong>Band Finish: Gray Ion-Plated</strong></p>\n<p><strong>Clasp: Adjustable Clasp</strong></p>\n<p><strong>Compatible Band Size: 140–205 mm</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Dark Deep Forest Green with Metallic Sunray Finish</strong></p>\n<p><strong>Display: Analog 2-Hand + Digital Display</strong></p>\n<p><strong>World Time: Yes</strong></p>\n<p><strong>Dual Time: Yes</strong></p>\n<p><strong>Stopwatch: 1/100-second, up to 59'59.99\"</strong></p>\n<p><strong>Alarm: Daily Alarm &amp; Hourly Time Signal</strong></p>\n<p><strong>Calendar: Auto-Calendar</strong></p>\n<p><strong>Time Format: 12/24-Hour</strong></p>\n<p><strong>Accuracy: ±30 seconds per month</strong></p>\n<p><strong>Glass: Resin Glass</strong></p>\n<p><strong>Water Resistance: Water Resistant</strong></p>",
+      "published_at": "2026-09-19T14:37:24+06:00",
+      "created_at": "2026-09-19T14:34:56+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 46236741304406,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "9350.00",
+          "grams": 0,
+          "compare_at_price": "10250.00",
+          "position": 1,
+          "product_id": 8732880863318,
+          "created_at": "2026-09-19T14:35:01+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38273716486230,
+          "created_at": "2026-09-19T14:35:12+06:00",
+          "position": 1,
+          "updated_at": "2026-09-19T16:22:08+06:00",
+          "product_id": 8732880863318,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egg-3adf-analog-digital-dark-green-dial-gunmetal-stainless-steel-unisex-watch-casio-aq-230egg-3adf-1387932.webp?v=1789813328",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273716453462,
+          "created_at": "2026-09-19T14:35:12+06:00",
+          "position": 2,
+          "updated_at": "2026-09-19T16:22:08+06:00",
+          "product_id": 8732880863318,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egg-3adf-analog-digital-dark-green-dial-gunmetal-stainless-steel-unisex-watch-casio-aq-230egg-3adf-7715308.png?v=1789813328",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38273716420694,
+          "created_at": "2026-09-19T14:35:12+06:00",
+          "position": 3,
+          "updated_at": "2026-09-19T16:22:08+06:00",
+          "product_id": 8732880863318,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egg-3adf-analog-digital-dark-green-dial-gunmetal-stainless-steel-unisex-watch-casio-aq-230egg-3adf-8702292.jpg?v=1789813328",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38273716387926,
+          "created_at": "2026-09-19T14:35:12+06:00",
+          "position": 4,
+          "updated_at": "2026-09-19T16:22:08+06:00",
+          "product_id": 8732880863318,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egg-3adf-analog-digital-dark-green-dial-gunmetal-stainless-steel-unisex-watch-casio-aq-230egg-3adf-1586747.jpg?v=1789813328",
+          "width": 923,
+          "height": 922
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8732880863318-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egg-3adf-analog-digital-dark-green-dial-gunmetal-stainless-steel-unisex-watch-casio-aq-230egg-3adf-1387932.webp?v=1789813328"
+        },
+        {
+          "path": "/media/products/8732880863318-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egg-3adf-analog-digital-dark-green-dial-gunmetal-stainless-steel-unisex-watch-casio-aq-230egg-3adf-7715308.png?v=1789813328"
+        },
+        {
+          "path": "/media/products/8732880863318-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230egg-3adf-analog-digital-dark-green-dial-gunmetal-stainless-steel-unisex-watch-casio-aq-230egg-3adf-8702292.jpg?v=1789813328"
+        }
+      ]
+    },
+    {
+      "id": 8732842524758,
+      "title": "Casio Vintage AQ-230A-2A1MQYDF Analog-Digital Ice Blue Dial Stainless Steel Unisex Watch | Casio AQ-230A-2A1MQYDF",
+      "handle": "casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf",
+      "body_html": "<p>The Casio Vintage AQ-230A-2A1MQYDF combines a compact rectangular case and stainless steel bracelet with an ice blue dial featuring a metallic sunburst finish. Its analog-digital display provides practical functions including dual time, a 1/100-second stopwatch, daily alarm, hourly signal, and auto-calendar. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand: Casio</strong></p>\n<p><strong>Collection: Vintage</strong></p>\n<p><strong>Model: AQ-230A-2A1MQYDF</strong></p>\n<p><strong>Gender: Unisex</strong></p>\n<p><strong>Movement: Analog-Digital Quartz</strong></p>\n<p><strong>Battery: SR920W</strong></p>\n<p><strong>Battery Life: Approximately 3 years</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Material: Resin</strong></p>\n<p><strong>Bezel Material: Chrome-Plated</strong></p>\n<p><strong>Case Dimensions: 38.8 × 29.8 × 8.1 mm</strong></p>\n<p><strong>Weight: 47 g</strong></p>\n<p><strong>Band Material: Stainless Steel</strong></p>\n<p><strong>Band Color: Silver</strong></p>\n<p><strong>Clasp: Adjustable Clasp</strong></p>\n<p><strong>Compatible Band Size: 140–205 mm</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Ice Blue with Metallic Sunburst Finish(Light-Blue)</strong></p>\n<p><strong>Display: Analog 2-Hand + Digital Display</strong></p>\n<p><strong>World Time: Yes</strong></p>\n<p><strong>Dual Time: Yes</strong></p>\n<p><strong>Stopwatch: 1/100-second, up to 59'59.99\"</strong></p>\n<p><strong>Alarm: Daily Alarm &amp; Hourly Time Signal</strong></p>\n<p><strong>Calendar: Auto-Calendar</strong></p>\n<p><strong>Time Format: 12/24-Hour</strong></p>\n<p><strong>Accuracy: ±30 seconds per month</strong></p>\n<p><strong>Glass: Resin Glass</strong></p>\n<p><strong>Water Resistance: Water Resistant</strong></p>",
+      "published_at": "2026-09-19T14:28:32+06:00",
+      "created_at": "2026-09-19T14:25:05+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 46236617736278,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "5950.00",
+          "grams": 0,
+          "compare_at_price": "6999.00",
+          "position": 1,
+          "product_id": 8732842524758,
+          "created_at": "2026-09-19T14:25:06+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38273428652118,
+          "created_at": "2026-09-19T14:25:29+06:00",
+          "position": 1,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732842524758,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-8005836.jpg?v=1789813329",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38273428586582,
+          "created_at": "2026-09-19T14:25:29+06:00",
+          "position": 2,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732842524758,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-3506926.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273428553814,
+          "created_at": "2026-09-19T14:25:29+06:00",
+          "position": 3,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732842524758,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-4956272.jpg?v=1789813329",
+          "width": 417,
+          "height": 421
+        },
+        {
+          "id": 38273428619350,
+          "created_at": "2026-09-19T14:25:29+06:00",
+          "position": 4,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732842524758,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-8739269.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273149141078,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 5,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732842524758,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-8334846.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273149108310,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 6,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732842524758,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-8937112.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8732842524758-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-8005836.jpg?v=1789813329"
+        },
+        {
+          "path": "/media/products/8732842524758-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-3506926.webp?v=1789813329"
+        },
+        {
+          "path": "/media/products/8732842524758-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-4956272.jpg?v=1789813329"
+        }
+      ]
+    },
+    {
+      "id": 8732806447190,
+      "title": "Casio Vintage AQ-230A-7AMQYDF Analog-Digital Silver Dial Stainless Steel Unisex Watch | Casio AQ-230A-7AMQYDF",
+      "handle": "casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf",
+      "body_html": "<p>The Casio Vintage AQ-230A-7AMQYDF combines a classic silver-tone sunburst dial with a compact rectangular chrome-plated case and stainless steel bracelet. Its analog-digital display adds practical features including dual time, a 1/100-second stopwatch, daily alarm, hourly signal, and auto-calendar. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand: Casio</strong></p>\n<p><strong>Collection: Vintage</strong></p>\n<p><strong>Model: AQ-230A-7AMQYDF</strong></p>\n<p><strong>Gender: Unisex</strong></p>\n<p><strong>Movement: Analog-Digital Quartz</strong></p>\n<p><strong>Battery: SR920W</strong></p>\n<p><strong>Battery Life: Approximately 3 years</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Material: Resin</strong></p>\n<p><strong>Bezel Material: Chrome-Plated</strong></p>\n<p><strong>Case Dimensions: 38.8 × 29.8 × 8.1 mm</strong></p>\n<p><strong>Weight: 47 g</strong></p>\n<p><strong>Band Material: Stainless Steel</strong></p>\n<p><strong>Band Color: Silver</strong></p>\n<p><strong>Clasp: Adjustable Clasp</strong></p>\n<p><strong>Compatible Band Size: 140–205 mm</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Silver / Silver-Tone Sunburst</strong></p>\n<p><strong>Display: Analog 2-Hand + Digital Display</strong></p>\n<p><strong>World Time: Yes</strong></p>\n<p><strong>Dual Time: Yes</strong></p>\n<p><strong>Stopwatch: 1/100-second, up to 59'59.99\"</strong></p>\n<p><strong>Alarm: Daily Alarm &amp; Hourly Time Signal</strong></p>\n<p><strong>Calendar: Auto-Calendar</strong></p>\n<p><strong>Time Format: 12/24-Hour</strong></p>\n<p><strong>Accuracy: ±30 seconds per month</strong></p>\n<p><strong>Glass: Resin Glass</strong></p>\n<p><strong>Water Resistance: Water Resistant</strong></p>",
+      "published_at": "2026-09-19T14:19:39+06:00",
+      "created_at": "2026-09-19T14:16:39+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 46236420341846,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "5950.00",
+          "grams": 0,
+          "compare_at_price": "6999.00",
+          "position": 1,
+          "product_id": 8732806447190,
+          "created_at": "2026-09-19T14:16:44+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38273149337686,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 1,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732806447190,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-1116208.jpg?v=1789813329",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38273149304918,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 2,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732806447190,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-9284640.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273149272150,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 3,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732806447190,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-3806655.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273149239382,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 4,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732806447190,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-2892874.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273149206614,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 5,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732806447190,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-9172763.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273149173846,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 6,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732806447190,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-8108884.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273149141078,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 7,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732806447190,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-8334846.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38273149108310,
+          "created_at": "2026-09-19T14:17:15+06:00",
+          "position": 8,
+          "updated_at": "2026-09-19T16:22:09+06:00",
+          "product_id": 8732806447190,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-2a1mqydf-analog-digital-ice-blue-dial-stainless-steel-unisex-watch-casio-aq-230a-2a1mqydf-8937112.webp?v=1789813329",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8732806447190-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-1116208.jpg?v=1789813329"
+        },
+        {
+          "path": "/media/products/8732806447190-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-9284640.webp?v=1789813329"
+        },
+        {
+          "path": "/media/products/8732806447190-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-vintage-aq-230a-7amqydf-analog-digital-silver-dial-stainless-steel-unisex-watch-casio-aq-230a-7amqydf-3806655.webp?v=1789813329"
+        }
+      ]
+    },
+    {
+      "id": 8058590593110,
+      "title": "Fossil Campbell Day-Date Navy Blue Dial Stainless Steel Men's Watch | Fossil FS6140",
+      "handle": "fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140",
+      "body_html": "<p>The Fossil Campbell FS6140 features a high-contrast navy blue sunray dial with a precision-cut fluted bezel that creates a reflective, light-catching finish. Its Japanese Seiko VJ55 quartz movement provides practical day and date displays, with the curved day window at 12 o'clock and date window at 6 o'clock. A 316L stainless steel case and 22mm interchangeable bracelet complete the design, with 50m water resistance for everyday use. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Fossil</strong></p>\n<p><strong>Collection: Campbell</strong></p>\n<p><strong>Model: FS6140</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Seiko VJ55 Quartz — Battery Powered</strong></p>\n<p><strong>Type: Day-Date</strong></p>\n<p><strong>Case &amp; Bracelet</strong></p>\n<p><strong>Case Diameter: 42 mm</strong></p>\n<p><strong>Case Thickness: 11.5 mm</strong></p>\n<p><strong>Case Material: 316L Stainless Steel</strong></p>\n<p><strong>Bezel: Precision-Cut Fluted Bezel</strong></p>\n<p><strong>Bracelet Material: 316L Stainless Steel</strong></p>\n<p><strong>Band Width: 22 mm</strong></p>\n<p><strong>Clasp: 3-Fold Deployant with Dual Push-Button Release</strong></p>\n<p><strong>Strap Compatibility: 22mm lug width for easy strap swapping</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Navy Blue</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Day Display: Curved horizontal window at 12 o'clock</strong></p>\n<p><strong>Date Display: Window at 6 o'clock</strong></p>\n<p><strong>Functions: Hours, Minutes, Seconds, Day &amp; Date</strong></p>\n<p><strong>Crystal: Flat Mineral Glass</strong></p>\n<p><strong>Water Resistance: 5 ATM / 50 Metres</strong></p>\n<p><strong>Water Resistance Use: Suitable for light swimming</strong></p>",
+      "published_at": "2026-09-18T02:19:39+06:00",
+      "created_at": "2026-09-18T02:13:11+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781868904534,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "11360.00",
+          "grams": 0,
+          "compare_at_price": "13700.00",
+          "position": 1,
+          "product_id": 8058590593110,
+          "created_at": "2026-09-18T02:13:35+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254467940438,
+          "created_at": "2026-09-18T02:13:40+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:10+06:00",
+          "product_id": 8058590593110,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-4586734.jpg?v=1789726690",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254467907670,
+          "created_at": "2026-09-18T02:13:40+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:10+06:00",
+          "product_id": 8058590593110,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-4826292.jpg?v=1789726690",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254467874902,
+          "created_at": "2026-09-18T02:13:40+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:10+06:00",
+          "product_id": 8058590593110,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-6314523.jpg?v=1789726690",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 38254467842134,
+          "created_at": "2026-09-18T02:13:40+06:00",
+          "position": 4,
+          "updated_at": "2026-09-18T16:18:10+06:00",
+          "product_id": 8058590593110,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-1349674.jpg?v=1789726690",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254467809366,
+          "created_at": "2026-09-18T02:13:40+06:00",
+          "position": 5,
+          "updated_at": "2026-09-18T16:18:09+06:00",
+          "product_id": 8058590593110,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-8430955.webp?v=1789726689",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254467776598,
+          "created_at": "2026-09-18T02:13:40+06:00",
+          "position": 6,
+          "updated_at": "2026-09-18T16:18:10+06:00",
+          "product_id": 8058590593110,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-6495949.jpg?v=1789726690",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254467743830,
+          "created_at": "2026-09-18T02:13:40+06:00",
+          "position": 7,
+          "updated_at": "2026-09-18T16:18:09+06:00",
+          "product_id": 8058590593110,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-5224379.webp?v=1789726689",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058590593110-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-4586734.jpg?v=1789726690"
+        },
+        {
+          "path": "/media/products/8058590593110-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-4826292.jpg?v=1789726690"
+        },
+        {
+          "path": "/media/products/8058590593110-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/fossil-campbell-day-date-navy-blue-dial-stainless-steel-mens-watch-fossil-fs6140-6314523.jpg?v=1789726690"
+        }
+      ]
+    },
+    {
+      "id": 8058575978582,
+      "title": "Emporio Armani World Explorer Marine Blue Arabic Dial Stainless Steel Men's 100M Watch | Emporio Armani AR80076",
+      "handle": "emporio-armani-world-explorer-marine-blue-arabic-dial-stainless-steel-mens-100m-watch-emporio-armani-ar80076",
+      "body_html": "<p>The Emporio Armani World Explorer AR80076 features a marine blue dial with Arabic numeral accents and a linear date display at 3 o'clock. Its 316L stainless steel case is paired with a silver stainless steel bracelet and an additional matching blue silicone utility strap, offering versatile styling with 100m water resistance for swimming, snorkeling, and surface water activities. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Emporio Armani</strong></p>\n<p><strong>Collection: World Explorer</strong></p>\n<p><strong>Model: AR80076</strong></p>\n<p><strong>Set Code: AR80076SET</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Japanese Quartz</strong></p>\n<p><strong>Type: Three-Hand Date</strong></p>\n<p><strong>Case &amp; Straps</strong></p>\n<p><strong>Case Diameter: 41–42 mm</strong></p>\n<p><strong>Case Thickness: 12 mm</strong></p>\n<p><strong>Case Material: 316L Stainless Steel</strong></p>\n<p><strong>Bezel: Stainless Steel</strong></p>\n<p><strong>Bracelet: Silver Stainless Steel Link Bracelet</strong></p>\n<p><strong>Bracelet Width: 22 mm</strong></p>\n<p><strong>Bracelet Clasp: Butterfly Deployment</strong></p>\n<p><strong>Additional Strap: Blue Silicone Utility Strap</strong></p>\n<p><strong>Additional Strap Closure: Pin Buckle</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Marine Blue</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Hour Markers: Arabic Numerals</strong></p>\n<p><strong>Functions: Hours, Minutes, Seconds &amp; Date</strong></p>\n<p><strong>Date Display: Linear Window at 3 o'clock</strong></p>\n<p><strong>Crystal: Scratch-Resistant Hardened Mineral Crystal</strong></p>\n<p><strong>Water Resistance: 100 Meters / 10 ATM</strong></p>",
+      "published_at": "2026-09-18T01:57:14+06:00",
+      "created_at": "2026-09-18T01:50:45+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781814378582,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "11960.00",
+          "grams": 0,
+          "compare_at_price": "13300.00",
+          "position": 1,
+          "product_id": 8058575978582,
+          "created_at": "2026-09-18T01:50:49+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254424621142,
+          "created_at": "2026-09-18T01:52:09+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058575978582,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-arabic-dial-stainless-steel-mens-100m-watch-emporio-armani-ar80076-8952951.jpg?v=1789726688",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254424588374,
+          "created_at": "2026-09-18T01:52:09+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058575978582,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-arabic-dial-stainless-steel-mens-100m-watch-emporio-armani-ar80076-6278236.jpg?v=1789726688",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254424555606,
+          "created_at": "2026-09-18T01:52:09+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058575978582,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-arabic-dial-stainless-steel-mens-100m-watch-emporio-armani-ar80076-6114464.jpg?v=1789726688",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254424522838,
+          "created_at": "2026-09-18T01:52:09+06:00",
+          "position": 4,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058575978582,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-arabic-dial-stainless-steel-mens-100m-watch-emporio-armani-ar80076-9047067.jpg?v=1789726688",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058575978582-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-arabic-dial-stainless-steel-mens-100m-watch-emporio-armani-ar80076-8952951.jpg?v=1789726688"
+        },
+        {
+          "path": "/media/products/8058575978582-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-arabic-dial-stainless-steel-mens-100m-watch-emporio-armani-ar80076-6278236.jpg?v=1789726688"
+        },
+        {
+          "path": "/media/products/8058575978582-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-arabic-dial-stainless-steel-mens-100m-watch-emporio-armani-ar80076-6114464.jpg?v=1789726688"
+        }
+      ]
+    },
+    {
+      "id": 8058568704086,
+      "title": "Emporio Armani World Explorer Marine Blue Dial Two-Tone Stainless Steel Men's 100M Watch | Emporio Armani AR11682",
+      "handle": "emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-diver-watch-emporio-armani-ar11682",
+      "body_html": "<p>World Explorer AR11682 features a marine blue dial with a metallic light-reflective finish, luminous hands and indices, and a matching blue bezel insert. Its two-tone stainless steel bracelet combines brushed silver-tone links with polished yellow gold-tone accents, while the quartz three-hand calendar movement and 100m water resistance make it practical for everyday wear.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Emporio Armani</strong></p>\n<p><strong>Collection: World Explorer</strong></p>\n<p><strong>Model: AR11682</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Quartz Three-Hand Calendar</strong></p>\n<p><strong>Type: Diver / Sports Watch</strong></p>\n<p><strong>Case &amp; Bracelet</strong></p>\n<p><strong>Case Diameter: 42 mm</strong></p>\n<p><strong>Case Thickness: 11 mm</strong></p>\n<p><strong>Case Material: Stainless Steel</strong></p>\n<p><strong>Bracelet Material: Two-Tone Stainless Steel</strong></p>\n<p><strong>Bracelet Color: Silver &amp; Yellow Gold-tone</strong></p>\n<p><strong>Bracelet Width: 22 mm</strong></p>\n<p><strong>Clasp: Deployment Clasp</strong></p>\n<p><strong>Bezel: Fixed Blue Top Ring with Numerical Minute Markings</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Marine Blue</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Hour Markers: Luminous Indices</strong></p>\n<p><strong>Hands: Luminous</strong></p>\n<p><strong>Date Display: Magnified Window at 3 o'clock</strong></p>\n<p><strong>Functions: Hours, Minutes, Seconds &amp; Date</strong></p>\n<p><strong>Crystal: Mineral Glass</strong></p>\n<p><strong>Water Resistance: 100 Meters / 10 ATM</strong></p>",
+      "published_at": "2026-09-18T01:40:41+06:00",
+      "created_at": "2026-09-18T01:37:49+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781780004950,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "12960.00",
+          "grams": 0,
+          "compare_at_price": "15400.00",
+          "position": 1,
+          "product_id": 8058568704086,
+          "created_at": "2026-09-18T01:38:05+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254370783318,
+          "created_at": "2026-09-18T01:38:09+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:09+06:00",
+          "product_id": 8058568704086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-watch-emporio-armani-ar11682-7601385.jpg?v=1789726689",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254370750550,
+          "created_at": "2026-09-18T01:38:09+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058568704086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-watch-emporio-armani-ar11682-4113173.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254370717782,
+          "created_at": "2026-09-18T01:38:09+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058568704086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-watch-emporio-armani-ar11682-1332837.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254370685014,
+          "created_at": "2026-09-18T01:38:09+06:00",
+          "position": 4,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058568704086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-watch-emporio-armani-ar11682-8608612.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254370652246,
+          "created_at": "2026-09-18T01:38:09+06:00",
+          "position": 5,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058568704086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-watch-emporio-armani-ar11682-7932392.jpg?v=1789726688",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058568704086-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-watch-emporio-armani-ar11682-7601385.jpg?v=1789726689"
+        },
+        {
+          "path": "/media/products/8058568704086-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-watch-emporio-armani-ar11682-4113173.webp?v=1789726688"
+        },
+        {
+          "path": "/media/products/8058568704086-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-world-explorer-marine-blue-dial-two-tone-stainless-steel-mens-100m-watch-emporio-armani-ar11682-1332837.webp?v=1789726688"
+        }
+      ]
+    },
+    {
+      "id": 8058565001302,
+      "title": "Emporio Armani Dario Chronograph Juniper Green Dial Stainless Steel Men's Watch | Emporio Armani AR11746",
+      "handle": "emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746",
+      "body_html": "<p>The Emporio Armani Dario AR11746 features a distinctive juniper green dial, blending deep forest and bottle green tones with the Dario collection's structured chronograph design. Its polished and brushed silver-tone stainless steel case is paired with a three-link bracelet, while the Japanese Miyota quartz movement provides chronograph, 24-hour, and date functions. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Emporio Armani</strong></p>\n<p><strong>Collection: Dario</strong></p>\n<p><strong>Model: AR11746</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Japanese Quartz — Miyota</strong></p>\n<p><strong>Type: Chronograph</strong></p>\n<p><strong>Case &amp; Bracelet</strong></p>\n<p><strong>Case Diameter: 42 mm</strong></p>\n<p><strong>Case Thickness: 14.2 mm</strong></p>\n<p><strong>Lug-to-Lug: 50 mm</strong></p>\n<p><strong>Case Material: Brushed &amp; Polished Silver-tone Stainless Steel</strong></p>\n<p><strong>Bezel: Fixed Gold-tone Stainless Steel</strong></p>\n<p><strong>Bracelet Material: Stainless Steel</strong></p>\n<p><strong>Bracelet Color: Silver-tone</strong></p>\n<p><strong>Bracelet Type: Three-Link</strong></p>\n<p><strong>Bracelet Width: 20 mm</strong></p>\n<p><strong>Clasp: Double-Press Butterfly Deployment</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Juniper Green — Forest &amp; Bottle Green Blend</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Hour Markers: Silver-tone Stick Indices</strong></p>\n<p><strong>Sub-Dials: Two</strong></p>\n<p><strong>Functions: Chronograph, 24-Hour Display &amp; Date</strong></p>\n<p><strong>Date Display: 6 o'clock</strong></p>\n<p><strong>Crystal: Hardened Mineral Glass</strong></p>\n<p><strong>Water Resistance: 50 Meters / 5 ATM</strong></p>",
+      "published_at": "2026-09-18T01:32:12+06:00",
+      "created_at": "2026-09-18T01:29:50+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781764014166,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13460.00",
+          "grams": 0,
+          "compare_at_price": "15300.00",
+          "position": 1,
+          "product_id": 8058565001302,
+          "created_at": "2026-09-18T01:30:14+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254321860694,
+          "created_at": "2026-09-18T01:30:25+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058565001302,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-1459748.jpg?v=1789726688",
+          "width": 900,
+          "height": 900
+        },
+        {
+          "id": 38254321827926,
+          "created_at": "2026-09-18T01:30:25+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:09+06:00",
+          "product_id": 8058565001302,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-1437839.png?v=1789726689",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254258323542,
+          "created_at": "2026-09-18T01:23:33+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058565001302,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-4412674.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254258290774,
+          "created_at": "2026-09-18T01:23:33+06:00",
+          "position": 4,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058565001302,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-6278867.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254258258006,
+          "created_at": "2026-09-18T01:23:33+06:00",
+          "position": 5,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058565001302,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-9119782.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058565001302-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-1459748.jpg?v=1789726688"
+        },
+        {
+          "path": "/media/products/8058565001302-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-1437839.png?v=1789726689"
+        },
+        {
+          "path": "/media/products/8058565001302-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-4412674.webp?v=1789726688"
+        }
+      ]
+    },
+    {
+      "id": 8058562150486,
+      "title": "Emporio Armani Dario Chronograph Navy Blue Dial Stainless Steel Men's Watch | Emporio Armani AR11728",
+      "handle": "emporio-armani-dario-chronograph-navy-blue-dial-stainless-steel-mens-watch-emporio-armani-ar11728",
+      "body_html": "<p>The Emporio Armani Dario AR11728 features a deep navy blue sunray dial with silver-tone detailing, housed in the distinctive Dario stainless steel case. Its Japanese Miyota quartz movement provides chronograph, 24-hour, and date functions, paired with a three-link stainless steel bracelet for a versatile everyday look. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Emporio Armani</strong></p>\n<p><strong>Collection: Dario</strong></p>\n<p><strong>Model: AR11728</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Analog Quartz — Miyota</strong></p>\n<p><strong>Type: Chronograph</strong></p>\n<p><strong>Case &amp; Bracelet</strong></p>\n<p><strong>Case Diameter: 42 mm</strong></p>\n<p><strong>Case Thickness: 14.2 mm</strong></p>\n<p><strong>Lug-to-Lug: 50 mm</strong></p>\n<p><strong>Case Material: Brushed &amp; Polished Silver-tone Stainless Steel</strong></p>\n<p><strong>Bezel: Fixed Gold-tone Stainless Steel</strong></p>\n<p><strong>Bracelet Material: Stainless Steel</strong></p>\n<p><strong>Bracelet Color: Silver-tone</strong></p>\n<p><strong>Bracelet Type: Three-Link</strong></p>\n<p><strong>Bracelet Width: 20 mm</strong></p>\n<p><strong>Clasp: Double-Press Butterfly Deployment</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Navy Blue / Deep Blue</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Hour Markers: Silver-tone Stick Indices</strong></p>\n<p><strong>Sub-Dials: Two</strong></p>\n<p><strong>Functions: Chronograph, 24-Hour Display &amp; Date</strong></p>\n<p><strong>Date Display: 6 o'clock</strong></p>\n<p><strong>Crystal: Hardened Mineral Glass</strong></p>\n<p><strong>Water Resistance: 50 Meters / 5 ATM</strong></p>",
+      "published_at": "2026-09-18T01:25:23+06:00",
+      "created_at": "2026-09-18T01:23:01+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781738750038,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13460.00",
+          "grams": 0,
+          "compare_at_price": "15990.00",
+          "position": 1,
+          "product_id": 8058562150486,
+          "created_at": "2026-09-18T01:23:06+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254258389078,
+          "created_at": "2026-09-18T01:23:33+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:07+06:00",
+          "product_id": 8058562150486,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-stainless-steel-mens-watch-emporio-armani-ar11728-8440988.webp?v=1789726687",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 38254258356310,
+          "created_at": "2026-09-18T01:23:33+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:07+06:00",
+          "product_id": 8058562150486,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-stainless-steel-mens-watch-emporio-armani-ar11728-4130467.png?v=1789726687",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 38254258323542,
+          "created_at": "2026-09-18T01:23:33+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058562150486,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-4412674.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254258290774,
+          "created_at": "2026-09-18T01:23:33+06:00",
+          "position": 4,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058562150486,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-6278867.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254258258006,
+          "created_at": "2026-09-18T01:23:33+06:00",
+          "position": 5,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058562150486,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-9119782.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058562150486-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-stainless-steel-mens-watch-emporio-armani-ar11728-8440988.webp?v=1789726687"
+        },
+        {
+          "path": "/media/products/8058562150486-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-stainless-steel-mens-watch-emporio-armani-ar11728-4130467.png?v=1789726687"
+        },
+        {
+          "path": "/media/products/8058562150486-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-juniper-green-dial-stainless-steel-mens-watch-emporio-armani-ar11746-4412674.webp?v=1789726688"
+        }
+      ]
+    },
+    {
+      "id": 8058560544854,
+      "title": "Emporio Armani Dario Chronograph Navy Blue Dial Gunmetal Stainless Steel Men's Watch | Emporio Armani AR11729",
+      "handle": "emporio-armani-dario-chronograph-navy-blue-dial-gunmetal-stainless-steel-mens-watch-emporio-armani-ar11729",
+      "body_html": "<p>The Emporio Armani Dario AR11729 features a deep navy blue sunray dial that shifts in tone as it catches the light, paired with a dark gunmetal-grey ion-plated stainless steel case and bracelet. Its Japanese Miyota quartz movement provides chronograph, 24-hour, and date functions, while the structured Dario design adds a distinctive modern profile. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Emporio Armani</strong></p>\n<p><strong>Collection: Dario</strong></p>\n<p><strong>Model: AR11729</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Japan Quartz — Miyota</strong></p>\n<p><strong>Type: Chronograph</strong></p>\n<p><strong>Case &amp; Bracelet</strong></p>\n<p><strong>Case Diameter: 42 mm</strong></p>\n<p><strong>Case Thickness: 14.2 mm</strong></p>\n<p><strong>Lug-to-Lug: 50 mm</strong></p>\n<p><strong>Case Material: Brushed &amp; Polished Stainless Steel</strong></p>\n<p><strong>Case Color: Gunmetal Grey / Smoked Steel</strong></p>\n<p><strong>Bezel: Fixed Gold-tone Stainless Steel</strong></p>\n<p><strong>Bracelet Material: Stainless Steel</strong></p>\n<p><strong>Bracelet Color: Gunmetal Grey / Smoked Steel</strong></p>\n<p><strong>Bracelet Finish: Ion-Plated</strong></p>\n<p><strong>Bracelet Type: Three-Link</strong></p>\n<p><strong>Bracelet Width: 20 mm</strong></p>\n<p><strong>Clasp: Double-Press Butterfly Deployment</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Navy Blue / Deep Blue</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Hour Markers: Silver-tone Stick Indices</strong></p>\n<p><strong>Sub-Dials: Two</strong></p>\n<p><strong>Functions: Chronograph, 24-Hour Display &amp; Date</strong></p>\n<p><strong>Date Display: 6 o'clock</strong></p>\n<p><strong>Crystal: Hardened Mineral Glass</strong></p>\n<p><strong>Water Resistance: 50 Meters / 5 ATM</strong></p>",
+      "published_at": "2026-09-18T01:16:05+06:00",
+      "created_at": "2026-09-18T01:13:58+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781716271190,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "14460.00",
+          "grams": 0,
+          "compare_at_price": "16500.00",
+          "position": 1,
+          "product_id": 8058560544854,
+          "created_at": "2026-09-18T01:14:02+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254242725974,
+          "created_at": "2026-09-18T01:14:15+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:06+06:00",
+          "product_id": 8058560544854,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-gunmetal-stainless-steel-mens-watch-emporio-armani-ar11729-9082716.webp?v=1789726686",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254242693206,
+          "created_at": "2026-09-18T01:14:15+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:06+06:00",
+          "product_id": 8058560544854,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-gunmetal-stainless-steel-mens-watch-emporio-armani-ar11729-6524125.webp?v=1789726686",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254242660438,
+          "created_at": "2026-09-18T01:14:15+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:06+06:00",
+          "product_id": 8058560544854,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-gunmetal-stainless-steel-mens-watch-emporio-armani-ar11729-4518214.webp?v=1789726686",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058560544854-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-gunmetal-stainless-steel-mens-watch-emporio-armani-ar11729-9082716.webp?v=1789726686"
+        },
+        {
+          "path": "/media/products/8058560544854-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-gunmetal-stainless-steel-mens-watch-emporio-armani-ar11729-6524125.webp?v=1789726686"
+        },
+        {
+          "path": "/media/products/8058560544854-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-navy-blue-dial-gunmetal-stainless-steel-mens-watch-emporio-armani-ar11729-4518214.webp?v=1789726686"
+        }
+      ]
+    },
+    {
+      "id": 8058558611542,
+      "title": "Emporio Armani Dario Chronograph Brown Dial Two-Tone Stainless Steel Men's Watch | Emporio Armani AR11789",
+      "handle": "emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789",
+      "body_html": "<p>The Emporio Armani Dario AR11789 features a rich brown textured sunray dial with gold-tone accents and silver-tone stick indices, paired with a polished and brushed silver-tone stainless steel case and fixed gold-tone bezel. Its two-tone stainless steel bracelet and Japanese Miyota quartz movement provide a practical chronograph, 24-hour display, and date window at 6 o'clock. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Emporio Armani</strong></p>\n<p><strong>Collection: Dario</strong></p>\n<p><strong>Model: AR11789</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Japan Quartz — Miyota</strong></p>\n<p><strong>Type: Chronograph</strong></p>\n<p><strong>Case &amp; Bracelet</strong></p>\n<p><strong>Case Diameter: 42 mm</strong></p>\n<p><strong>Case Thickness: 14.2 mm</strong></p>\n<p><strong>Lug-to-Lug: 50 mm</strong></p>\n<p><strong>Case Material: Brushed &amp; Polished Silver-tone Stainless Steel</strong></p>\n<p><strong>Bezel: Fixed Gold-tone Stainless Steel</strong></p>\n<p><strong>Bracelet Material: Stainless Steel</strong></p>\n<p><strong>Bracelet Color: Two-Tone Silver &amp; Gold</strong></p>\n<p><strong>Bracelet Type: Three-Link</strong></p>\n<p><strong>Bracelet Width: 20 mm</strong></p>\n<p><strong>Clasp: Double-Press Butterfly Deployment</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Brown</strong></p>\n<p><strong>Dial Finish: Textured / Sunray</strong></p>\n<p><strong>Hour Markers: Silver-tone Stick Indices</strong></p>\n<p><strong>Accents: Gold-tone</strong></p>\n<p><strong>Sub-Dials: Two</strong></p>\n<p><strong>Functions: Chronograph, 24-Hour Display &amp; Date</strong></p>\n<p><strong>Date Display: 6 o'clock</strong></p>\n<p><strong>Crystal: Hardened Mineral Glass</strong></p>\n<p><strong>Water Resistance: 50 Meters / 5 ATM</strong></p>",
+      "published_at": "2026-09-18T01:10:31+06:00",
+      "created_at": "2026-09-18T01:05:38+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781707522134,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13460.00",
+          "grams": 0,
+          "compare_at_price": "14990.00",
+          "position": 1,
+          "product_id": 8058558611542,
+          "created_at": "2026-09-18T01:05:44+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254213562454,
+          "created_at": "2026-09-18T01:05:53+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:07+06:00",
+          "product_id": 8058558611542,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-8246880.webp?v=1789726687",
+          "width": 748,
+          "height": 748
+        },
+        {
+          "id": 38254213529686,
+          "created_at": "2026-09-18T01:05:53+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058558611542,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-4548411.webp?v=1789726688",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 38254202486870,
+          "created_at": "2026-09-18T00:58:54+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058558611542,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-5335596.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254202454102,
+          "created_at": "2026-09-18T00:58:54+06:00",
+          "position": 4,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058558611542,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-7451081.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254213496918,
+          "created_at": "2026-09-18T01:05:53+06:00",
+          "position": 5,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058558611542,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-2697544.webp?v=1789726688",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058558611542-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-8246880.webp?v=1789726687"
+        },
+        {
+          "path": "/media/products/8058558611542-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-4548411.webp?v=1789726688"
+        },
+        {
+          "path": "/media/products/8058558611542-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-5335596.webp?v=1789726688"
+        }
+      ]
+    },
+    {
+      "id": 8058553827414,
+      "title": "Emporio Armani Dario Chronograph Green Dial Two-Tone Stainless Steel Men's Watch | Emporio Armani AR11692",
+      "handle": "emporio-armani-dario-chronograph-green-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11692",
+      "body_html": "<p>The Emporio Armani Dario AR11692 features a green sunray-finished dial with silver-tone stick indices and two sub-dials, framed by a polished and brushed silver-tone stainless steel case with a fixed gold-tone bezel. Its two-tone stainless steel bracelet and Japanese Miyota quartz movement complete the design, with chronograph functions, a 24-hour display, and a date window at 6 o'clock. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Emporio Armani</strong></p>\n<p><strong>Collection: Dario</strong></p>\n<p><strong>Model: AR11692</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Analog Quartz — Miyota</strong></p>\n<p><strong>Type: Chronograph</strong></p>\n<p><strong>Case &amp; Bracelet</strong></p>\n<p><strong>Case Diameter: 42 mm</strong></p>\n<p><strong>Case Thickness: 14.2 mm</strong></p>\n<p><strong>Lug-to-Lug: 50 mm</strong></p>\n<p><strong>Case Material: Brushed &amp; Polished Silver-tone Stainless Steel</strong></p>\n<p><strong>Bezel: Fixed Gold-tone Stainless Steel</strong></p>\n<p><strong>Bracelet Material: Stainless Steel</strong></p>\n<p><strong>Bracelet Color: Two-Tone Silver &amp; Gold</strong></p>\n<p><strong>Bracelet Type: Three-Link</strong></p>\n<p><strong>Bracelet Width: 20 mm</strong></p>\n<p><strong>Clasp: Double-Press Butterfly Deployment</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Green</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Hour Markers: Silver-tone Stick Indices</strong></p>\n<p><strong>Sub-Dials: Two</strong></p>\n<p><strong>Functions: Chronograph, 24-Hour Display &amp; Date</strong></p>\n<p><strong>Date Display: 6 o'clock</strong></p>\n<p><strong>Crystal: Hardened Mineral Glass</strong></p>\n<p><strong>Water Resistance: 50 Meters / 5 ATM</strong></p>",
+      "published_at": "2026-09-18T01:01:17+06:00",
+      "created_at": "2026-09-18T00:58:34+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781696610390,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13460.00",
+          "grams": 0,
+          "compare_at_price": "15890.00",
+          "position": 1,
+          "product_id": 8058553827414,
+          "created_at": "2026-09-18T00:58:38+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254202585174,
+          "created_at": "2026-09-18T00:58:54+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:09+06:00",
+          "product_id": 8058553827414,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-green-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11692-9280469.jpg?v=1789726689",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38254202552406,
+          "created_at": "2026-09-18T00:58:54+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058553827414,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-green-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11692-8771001.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254202519638,
+          "created_at": "2026-09-18T00:58:54+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058553827414,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-green-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11692-9779638.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254202486870,
+          "created_at": "2026-09-18T00:58:54+06:00",
+          "position": 4,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058553827414,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-5335596.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254202454102,
+          "created_at": "2026-09-18T00:58:54+06:00",
+          "position": 5,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058553827414,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-brown-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11789-7451081.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254202421334,
+          "created_at": "2026-09-18T00:58:54+06:00",
+          "position": 6,
+          "updated_at": "2026-09-18T16:18:08+06:00",
+          "product_id": 8058553827414,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-green-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11692-6351869.webp?v=1789726688",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058553827414-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-green-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11692-9280469.jpg?v=1789726689"
+        },
+        {
+          "path": "/media/products/8058553827414-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-green-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11692-8771001.webp?v=1789726688"
+        },
+        {
+          "path": "/media/products/8058553827414-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-green-dial-two-tone-stainless-steel-mens-watch-emporio-armani-ar11692-9779638.webp?v=1789726688"
+        }
+      ]
+    },
+    {
+      "id": 8058530627670,
+      "title": "Emporio Armani Dario Chronograph Black Dial Khaki Green Mirum Strap Men's Watch | Emporio Armani AR11693",
+      "handle": "emporio-armani-dario-chronograph-black-dial-khaki-green-mirum-strap-mens-watch-emporio-armani-ar11693",
+      "body_html": "<p>The Emporio Armani Dario AR11693 features a black sunray dial with high-contrast silver-tone hands and baton indices, housed in a silver-tone stainless steel case. Its khaki green Mirum® plant-based strap gives the watch a distinctive military-inspired character, while the Miyota quartz chronograph movement provides a 60-second sub-dial, 24-hour display, and date window. Available at VERSEBD at the best possible price in Bangladesh.</p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Emporio Armani</strong></p>\n<p><strong>Collection: Dario</strong></p>\n<p><strong>Model: AR11693</strong></p>\n<p><strong>Gender: Men's</strong></p>\n<p><strong>Movement: Japanese Miyota Quartz — Caliber 0S21</strong></p>\n<p><strong>Type: Chronograph</strong></p>\n<p><strong>Case &amp; Strap</strong></p>\n<p><strong>Case Diameter: 42 mm</strong></p>\n<p><strong>Case Thickness: 14 mm</strong></p>\n<p><strong>Case Material: Stainless Steel</strong></p>\n<p><strong>Case Color: Silver-tone</strong></p>\n<p><strong>Strap Material: <em>Mirum®</em> Plant-Based Compound</strong></p>\n<p><strong>Strap Color: Khaki Green</strong></p>\n<p><strong>Strap Width: 20 mm</strong></p>\n<p><strong>Strap Type: Plastic-Free Bio-Based Material</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Black</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Hands: Silver-tone</strong></p>\n<p><strong>Hour Markers: Silver-tone Baton Indices</strong></p>\n<p><strong>Sub-Dials: 60-Second &amp; 24-Hour</strong></p>\n<p><strong>Date Display: 6 o'clock</strong></p>\n<p><strong>Functions: Chronograph, 24-Hour &amp; Date</strong></p>\n<p><strong>Crystal: Mineral Glass</strong></p>\n<p><strong>Water Resistance: 50 Meters / 5 ATM</strong></p>",
+      "published_at": "2026-09-18T00:28:15+06:00",
+      "created_at": "2026-09-18T00:25:51+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45781639790678,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "12450.00",
+          "grams": 0,
+          "compare_at_price": "13990.00",
+          "position": 1,
+          "product_id": 8058530627670,
+          "created_at": "2026-09-18T00:25:54+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38254070890582,
+          "created_at": "2026-09-18T00:26:13+06:00",
+          "position": 1,
+          "updated_at": "2026-09-18T16:18:07+06:00",
+          "product_id": 8058530627670,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-black-dial-khaki-green-mirum-strap-mens-watch-emporio-armani-ar11693-5082403.webp?v=1789726687",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254070857814,
+          "created_at": "2026-09-18T00:26:13+06:00",
+          "position": 2,
+          "updated_at": "2026-09-18T16:18:07+06:00",
+          "product_id": 8058530627670,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-black-dial-khaki-green-mirum-strap-mens-watch-emporio-armani-ar11693-1525318.webp?v=1789726687",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254070825046,
+          "created_at": "2026-09-18T00:26:13+06:00",
+          "position": 3,
+          "updated_at": "2026-09-18T16:18:07+06:00",
+          "product_id": 8058530627670,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-black-dial-khaki-green-mirum-strap-mens-watch-emporio-armani-ar11693-4816908.webp?v=1789726687",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38254070792278,
+          "created_at": "2026-09-18T00:26:13+06:00",
+          "position": 4,
+          "updated_at": "2026-09-18T16:18:07+06:00",
+          "product_id": 8058530627670,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-black-dial-khaki-green-mirum-strap-mens-watch-emporio-armani-ar11693-4066264.webp?v=1789726687",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8058530627670-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-black-dial-khaki-green-mirum-strap-mens-watch-emporio-armani-ar11693-5082403.webp?v=1789726687"
+        },
+        {
+          "path": "/media/products/8058530627670-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-black-dial-khaki-green-mirum-strap-mens-watch-emporio-armani-ar11693-1525318.webp?v=1789726687"
+        },
+        {
+          "path": "/media/products/8058530627670-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/emporio-armani-dario-chronograph-black-dial-khaki-green-mirum-strap-mens-watch-emporio-armani-ar11693-4816908.webp?v=1789726687"
+        }
+      ]
+    },
+    {
+      "id": 8047525232726,
+      "title": "Casio LTP-1234DD-4ADF Pastel Salmon Pink Dial Stainless Steel Women's Watch | Casio LTP-1234DD-4ADF",
+      "handle": "casio-ltp-1234dd-4adf-pastel-salmon-pink-dial-stainless-steel-womens-watch-casio-ltp-1234dd-4adf",
+      "body_html": "<p>The Casio LTP-1234DD-4ADF features a soft pastel salmon pink dial paired with an ion-plated case and stainless steel bracelet. Its compact 32mm profile, classic three-hand quartz movement, mineral glass, and one-touch three-fold clasp make it a practical everyday watch. Available at VERSEBD at the best possible price in Bangladesh, making it a stylish choice for those looking for a feminine Casio women's watch at a competitive price.</p>\n<p><strong>Specifications:</strong></p>\n<p><strong>Brand &amp; Movement</strong></p>\n<p><strong>Brand: Casio</strong></p>\n<p><strong>Model: LTP-1234DD-4ADF</strong></p>\n<p><strong>Gender: Women's</strong></p>\n<p><strong>Movement: Quartz Analog</strong></p>\n<p><strong>Battery: SR626SW</strong></p>\n<p><strong>Battery Life: Approximately 3 years</strong></p>\n<p><strong>Display: 3-Hand Analog</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Size: 32 × 21 × 7.4 mm</strong></p>\n<p><strong>Weight: 58 g</strong></p>\n<p><strong>Case Material: Ion Plated</strong></p>\n<p><strong>Bezel: Ion Plated</strong></p>\n<p><strong>Band Material: Stainless Steel</strong></p>\n<p><strong>Clasp: One-Touch 3-Fold Clasp</strong></p>\n<p><strong>Compatible Band Size: 125–185 mm</strong></p>\n<p><strong>Dial &amp; Functions</strong></p>\n<p><strong>Dial Color: Pastel Salmon Pink</strong></p>\n<p><strong>Functions: Regular Timekeeping</strong></p>\n<p><strong>Hands: Hour, Minute, Second</strong></p>\n<p><strong>Crystal: Mineral Glass</strong></p>\n<p><strong>Accuracy: ±20 seconds per month</strong></p>\n<p><strong>Water Resistance: Water Resistant</strong></p>",
+      "published_at": "2026-09-14T01:18:21+06:00",
+      "created_at": "2026-09-14T01:16:12+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45754662486102,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "5850.00",
+          "grams": 0,
+          "compare_at_price": "6290.00",
+          "position": 1,
+          "product_id": 8047525232726,
+          "created_at": "2026-09-14T01:16:16+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38202159562838,
+          "created_at": "2026-09-14T01:16:41+06:00",
+          "position": 1,
+          "updated_at": "2026-09-14T15:59:13+06:00",
+          "product_id": 8047525232726,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234dd-4adf-pastel-salmon-pink-dial-stainless-steel-womens-watch-casio-ltp-1234dd-4adf-1484395.jpg?v=1789379953",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38202159530070,
+          "created_at": "2026-09-14T01:16:41+06:00",
+          "position": 2,
+          "updated_at": "2026-09-14T15:59:12+06:00",
+          "product_id": 8047525232726,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234dd-4adf-pastel-salmon-pink-dial-stainless-steel-womens-watch-casio-ltp-1234dd-4adf-7914479.jpg?v=1789379952",
+          "width": 1903,
+          "height": 1920
+        },
+        {
+          "id": 38202159497302,
+          "created_at": "2026-09-14T01:16:41+06:00",
+          "position": 3,
+          "updated_at": "2026-09-14T15:59:13+06:00",
+          "product_id": 8047525232726,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234dd-4adf-pastel-salmon-pink-dial-stainless-steel-womens-watch-casio-ltp-1234dd-4adf-9148095.jpg?v=1789379953",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 38202159464534,
+          "created_at": "2026-09-14T01:16:41+06:00",
+          "position": 4,
+          "updated_at": "2026-09-14T15:59:13+06:00",
+          "product_id": 8047525232726,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234dd-4adf-pastel-salmon-pink-dial-stainless-steel-womens-watch-casio-ltp-1234dd-4adf-7174503.jpg?v=1789379953",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8047525232726-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234dd-4adf-pastel-salmon-pink-dial-stainless-steel-womens-watch-casio-ltp-1234dd-4adf-1484395.jpg?v=1789379953"
+        },
+        {
+          "path": "/media/products/8047525232726-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234dd-4adf-pastel-salmon-pink-dial-stainless-steel-womens-watch-casio-ltp-1234dd-4adf-7914479.jpg?v=1789379952"
+        },
+        {
+          "path": "/media/products/8047525232726-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234dd-4adf-pastel-salmon-pink-dial-stainless-steel-womens-watch-casio-ltp-1234dd-4adf-9148095.jpg?v=1789379953"
+        }
+      ]
+    },
+    {
+      "id": 8024007901270,
+      "title": "Casio LTP-1234LL-7ADF Silver Dial Black Leather Women's Watch | Casio LTP-1234LL-7ADF",
+      "handle": "casio-ltp-1234ll-7adf-silver-dial-black-leather-womens-watch-casio-ltp-1234ll-7adf",
+      "body_html": "<p>The Casio LTP-1234LL-7ADF is a classic women's watch featuring a silver-white sunburst dial with full Arabic numeral markers, a silver-tone ion-plated tonneau case, and a black genuine leather strap. Its compact 32 mm case and slim 7.4 mm profile give it a clean, refined look for everyday and formal wear.</p>\n<p> </p>",
+      "published_at": "2026-09-11T16:40:11+06:00",
+      "created_at": "2026-09-04T18:27:54+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45696009175126,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "5450.00",
+          "grams": 0,
+          "compare_at_price": "6190.00",
+          "position": 1,
+          "product_id": 8024007901270,
+          "created_at": "2026-09-04T18:27:59+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38038970662998,
+          "created_at": "2026-09-04T18:28:09+06:00",
+          "position": 1,
+          "updated_at": "2026-09-12T15:51:09+06:00",
+          "product_id": 8024007901270,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234ll-7adf-silver-dial-black-leather-womens-watch-casio-ltp-1234ll-7adf-2751744.jpg?v=1789206669",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38038970630230,
+          "created_at": "2026-09-04T18:28:09+06:00",
+          "position": 2,
+          "updated_at": "2026-09-12T15:51:09+06:00",
+          "product_id": 8024007901270,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234ll-7adf-silver-dial-black-leather-womens-watch-casio-ltp-1234ll-7adf-9989521.jpg?v=1789206669",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38038970597462,
+          "created_at": "2026-09-04T18:28:09+06:00",
+          "position": 3,
+          "updated_at": "2026-09-12T15:51:09+06:00",
+          "product_id": 8024007901270,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234ll-7adf-silver-dial-black-leather-womens-watch-casio-ltp-1234ll-7adf-5960800.jpg?v=1789206669",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8024007901270-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234ll-7adf-silver-dial-black-leather-womens-watch-casio-ltp-1234ll-7adf-2751744.jpg?v=1789206669"
+        },
+        {
+          "path": "/media/products/8024007901270-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234ll-7adf-silver-dial-black-leather-womens-watch-casio-ltp-1234ll-7adf-9989521.jpg?v=1789206669"
+        },
+        {
+          "path": "/media/products/8024007901270-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/casio-ltp-1234ll-7adf-silver-dial-black-leather-womens-watch-casio-ltp-1234ll-7adf-5960800.jpg?v=1789206669"
+        }
+      ]
+    },
+    {
+      "id": 8014707327062,
+      "title": "Timex Marlin Chronograph Tachymeter 40mm Ice Blue Dial Stainless Steel Men's Watch | Timex TW2Y66500",
+      "handle": "timex-marlin-chronograph-tachymeter-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500",
+      "body_html": "<p>The Timex Marlin Chronograph Tachymeter TW2Y66500 features an ice blue sunray dial with contrasting black sub-dials, a tachymeter scale, and a polished stainless steel case and bracelet. Its vintage-inspired design is completed by a domed acrylic crystal and a practical date display. </p>\n<p><strong>Specifications</strong></p>\n<p><strong>Brand: Timex</strong></p>\n<p><strong>Model: TW2Y66500</strong></p>\n<p><strong>Collection: Marlin Chronograph Tachymeter</strong></p>\n<p><strong>Movement: Quartz Analog Chronograph</strong></p>\n<p><strong>Battery Type: SR936SW</strong></p>\n<p><strong>Case Diameter: 40 mm</strong></p>\n<p><strong>Case Height: 13.5 mm</strong></p>\n<p><strong>Lug-to-Lug: 48 mm</strong></p>\n<p><strong>Weight: 114.34 g</strong></p>\n<p><strong>Case &amp; Band</strong></p>\n<p><strong>Case Material: Stainless Steel</strong></p>\n<p><strong>Case Color: Silver-Tone</strong></p>\n<p><strong>Case Finish: Polished</strong></p>\n<p><strong>Band Material: Stainless Steel</strong></p>\n<p><strong>Band Color: Silver-Tone</strong></p>\n<p><strong>Band Type: Multi-Link Bracelet</strong></p>\n<p><strong>Quick Release: Yes</strong></p>\n<p><strong>Compatible Wrist Size: 150–205 mm</strong></p>\n<p><strong>Dial Color: Ice Blue</strong></p>\n<p><strong>Dial Finish: Sunray</strong></p>\n<p><strong>Sub-Dials: Black contrasting chronograph sub-dials</strong></p>\n<p><strong>Dial Markings: Arabic numerals and markers</strong></p>\n<p><strong>Chronograph: Yes</strong></p>\n<p><strong>Tachymeter: Yes</strong></p>\n<p><strong>Date Display: Yes, positioned between 4 and 5 o'clock</strong></p>\n<p><strong>Glass: Domed Acrylic Crystal</strong></p>\n<p><strong>Water Resistance: 50 meters / 5 ATM</strong></p>\n<p><strong>The ice blue sunray dial, contrasting sub-dials, tachymeter scale, and date window are confirmed by Timex. </strong></p>",
+      "published_at": "2026-08-28T13:21:41+06:00",
+      "created_at": "2026-08-28T13:16:40+06:00",
+      "updated_at": "2026-10-09T18:35:38+06:00",
+      "vendor": "VERSE ",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 45667609051222,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "19990.00",
+          "grams": 0,
+          "compare_at_price": "22550.00",
+          "position": 1,
+          "product_id": 8014707327062,
+          "created_at": "2026-08-28T13:16:43+06:00",
+          "updated_at": "2026-10-09T18:35:38+06:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37936685121622,
+          "created_at": "2026-08-28T13:17:00+06:00",
+          "position": 1,
+          "updated_at": "2026-08-28T14:56:17+06:00",
+          "product_id": 8014707327062,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-5356096.jpg?v=1787907377",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 37936685088854,
+          "created_at": "2026-08-28T13:17:00+06:00",
+          "position": 2,
+          "updated_at": "2026-08-28T14:56:17+06:00",
+          "product_id": 8014707327062,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-2010548.png?v=1787907377",
+          "width": 1192,
+          "height": 1192
+        },
+        {
+          "id": 37936685056086,
+          "created_at": "2026-08-28T13:17:00+06:00",
+          "position": 3,
+          "updated_at": "2026-08-28T14:56:17+06:00",
+          "product_id": 8014707327062,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-8778876.jpg?v=1787907377",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "id": 37936685023318,
+          "created_at": "2026-08-28T13:17:00+06:00",
+          "position": 4,
+          "updated_at": "2026-08-28T14:56:16+06:00",
+          "product_id": 8014707327062,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-2062473.jpg?v=1787907376",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "id": 37936684990550,
+          "created_at": "2026-08-28T13:17:00+06:00",
+          "position": 5,
+          "updated_at": "2026-08-28T14:56:17+06:00",
+          "product_id": 8014707327062,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-4447221.jpg?v=1787907377",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 37936684892246,
+          "created_at": "2026-08-28T13:17:00+06:00",
+          "position": 6,
+          "updated_at": "2026-08-28T14:56:17+06:00",
+          "product_id": 8014707327062,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-6005650.jpg?v=1787907377",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 37936684925014,
+          "created_at": "2026-08-28T13:17:00+06:00",
+          "position": 7,
+          "updated_at": "2026-08-28T14:56:17+06:00",
+          "product_id": 8014707327062,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-3109447.jpg?v=1787907377",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 37936684957782,
+          "created_at": "2026-08-28T13:17:00+06:00",
+          "position": 8,
+          "updated_at": "2026-08-28T14:56:17+06:00",
+          "product_id": 8014707327062,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-2251439.jpg?v=1787907377",
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "local_images": [
+        {
+          "path": "/media/products/8014707327062-0.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-5356096.jpg?v=1787907377"
+        },
+        {
+          "path": "/media/products/8014707327062-1.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-2010548.png?v=1787907377"
+        },
+        {
+          "path": "/media/products/8014707327062-2.webp",
+          "source_url": "https://cdn.shopify.com/s/files/1/0668/0382/6774/files/timex-marlin-chronograph-tachymeter-40mm-ice-blue-dial-stainless-steel-mens-watch-timex-tw2y66500-8778876.jpg?v=1787907377"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "checked_at": "2026-10-09T15:18:43.029Z",
+  "project": "jerserio-project",
+  "model": "publishers/google/models/gemini-omni-1.1-flash-preview",
+  "location": "global",
+  "authentication": "existing gcloud OAuth; token held in memory only",
+  "generation_requested": true,
+  "video_output_estimate_usd": 1.21632,
+  "credit_balance_verified": false,
+  "version": "watch-v3",
+  "launch_stage": "PUBLIC_PREVIEW",
+  "authentication_verified": true,
+  "count_tokens": 2,
+  "interaction_id": "1gXJapHEJKyAoLAPtvucwQw",
+  "status": "completed",
+  "usage": {
+    "total_tokens": 117090,
+    "total_input_tokens": 47224,
+    "input_tokens_by_modality": [
+      {
+        "modality": "audio",
+        "tokens": 201
+      },
+      {
+        "modality": "text",
+        "tokens": 415
+      },
+      {
+        "modality": "video",
+        "tokens": 46608
+      }
+    ],
+    "total_output_tokens": 69504,
+    "output_tokens_by_modality": [
+      {
+        "modality": "video",
+        "tokens": 69504
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 362
+  },
+  "local_asset": "docs/reference/verse-assembly-omni.watch-v3.mp4",
+  "visually_inspected": true,
+  "inspection_result": "approved",
+  "inspected_asset": "docs/reference/verse-assembly-omni.watch-v3-clean.mp4",
+  "review": "Cloud edit retained tiny invented dial glyphs; local tracked OpenCV video inpainting removed them beside six. Inspected cleanup frames, assembly and closing shot. Raw cloud output retained.",
+  "estimated_usage_cost_usd": 1.2904140000000002
+}

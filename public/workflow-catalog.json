@@ -1,0 +1,31 @@
+{
+  "brand": "VERSE",
+  "city": "Dhaka",
+  "variantLabel": "Watch option",
+  "products": [
+    {
+      "name": "Timex Marlin Moon Phase Multifunction 40mm Navy Blue Dial Black Leather Men's Watch | Timex TWEG26803",
+      "price": 1850000,
+      "image": "/media/products/10334485676118-0.webp",
+      "variants": [
+        "Standard watch"
+      ]
+    },
+    {
+      "name": "Timex Marlin Chronograph Tachymeter 40mm Ice Blue Dial Brown Leather Men's Watch | Timex TW2Y66600UJ",
+      "price": 1950000,
+      "image": "/media/products/10334483185750-0.webp",
+      "variants": [
+        "Standard watch"
+      ]
+    },
+    {
+      "name": "Timex Marlin Moon Phase Multifunction 40mm Forest Green Dial Brown Leather Men's Watch | Timex TWEG26800",
+      "price": 1750000,
+      "image": "/media/products/10334476271702-0.webp",
+      "variants": [
+        "Standard watch"
+      ]
+    }
+  ]
+}
